@@ -1,0 +1,5 @@
+Threading:
+88350798200 nanoseconds
+
+Multiprocessing:
+6773526300 nanoseconds

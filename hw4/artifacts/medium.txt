@@ -1,0 +1,54 @@
+Logs:
+Thread 0 started at: 0
+Thread 1 started at: 17361800
+Thread 2 started at: 49304300
+Thread 3 started at: 85681200
+Thread 4 started at: 116825100
+Thread 5 started at: 243495100
+Thread 6 started at: 338935800
+Thread 7 started at: 418725900
+Thread 8 started at: 418725900
+Thread 9 started at: 665498400
+
+Number of threads: 1, time = 1189875100
+Number of threads: 2, time = 1762801000
+Number of threads: 3, time = 1680245800
+Number of threads: 4, time = 1624920200
+Number of threads: 5, time = 1495104500
+Number of threads: 6, time = 1480313600
+Number of threads: 7, time = 1485403500
+Number of threads: 8, time = 1440889200
+Number of threads: 9, time = 1439104400
+Number of threads: 10, time = 1578271300
+Number of threads: 11, time = 1928336000
+Number of threads: 12, time = 1846077300
+Number of threads: 13, time = 1868787800
+Number of threads: 14, time = 1459300400
+Number of threads: 15, time = 1469288200
+Logs:
+Process 0 started at: 0
+Process 1 started at: 11159400
+Process 2 started at: 15624900
+Process 3 started at: 20772800
+Process 4 started at: 24897700
+Process 5 started at: 29636600
+Process 6 started at: 32319700
+Process 7 started at: 35585100
+Process 8 started at: 39833900
+Process 9 started at: 44049700
+
+Number of processes: 1, time = 101774300
+Number of processes: 2, time = 124907800
+Number of processes: 3, time = 139797300
+Number of processes: 4, time = 133345200
+Number of processes: 5, time = 137799600
+Number of processes: 6, time = 155978400
+Number of processes: 7, time = 150474800
+Number of processes: 8, time = 149209200
+Number of processes: 9, time = 157864600
+Number of processes: 10, time = 163025700
+Number of processes: 11, time = 176029900
+Number of processes: 12, time = 184022000
+Number of processes: 13, time = 187317800
+Number of processes: 14, time = 203721700
+Number of processes: 15, time = 213042900
